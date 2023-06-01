@@ -17,11 +17,11 @@ Architecture
 
 Files in the following stages:
 
-Step 0: Cleaning and transformation 
-Step 1: Storage
-Step 2: ETL, Orchestration - Mage extract, transform, export
-Step 3: Analytics - SQL script
-Step 4: Dashboard
+ 1. Cleaning and transformation 
+ 2. Storage
+ 3. ETL, Orchestration - Mage extract, transform, export
+ 4. Analytics - SQL script
+ 5. Dashboard
 
 Technology Used
 The following technologies are used to build this project:
