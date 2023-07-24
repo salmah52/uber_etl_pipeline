@@ -1,4 +1,4 @@
-# uber_etl_pipeline
+# UberETLPipeline
 Uber Data Engineering Project
 
 Objective
