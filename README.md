@@ -1,5 +1,5 @@
 # Uber ETL Pipeline
-Uber Data Engineering Project
+Uber Project
 
 Objective
 
