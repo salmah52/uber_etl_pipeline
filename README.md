@@ -38,7 +38,7 @@ Datasets Used
 TLC Trip Record Data Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations,
 trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
 
-Here is the dataset used in the video - https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project/blob/main/data/uber_data.csv
+Here is the dataset for the projects - https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project/blob/main/data/uber_data.csv
 
 
 Data Modelling
